@@ -1,0 +1,5 @@
+requests
+docopt
+prettytable
+datetime
+bs4
